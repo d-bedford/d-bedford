@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devin Bedford</h1>
 <h3 align="center">A passionate software developer who loves to solve problems and make things!</h3>
 
-<img src="https://giphy.com/embed/xUA7b4arnbo3THfzi0"></img>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d-bedford" alt="d-bedford" /></a> </p>
 
 <p align="center">🌱 I’m currently learning **Flask and SQL**</p>
