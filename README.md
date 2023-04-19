@@ -3,12 +3,12 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d-bedford" alt="d-bedford" /></a> </p>
 
-- 🌱 I’m currently learning **Flask and SQL**
+<p align="center">🌱 I’m currently learning **Flask and SQL**</p>
 
-- 📫 How to reach me **bedforddevin895@gmail.com**
+<p align="center">📫 How to reach me **bedforddevin895@gmail.com**</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
